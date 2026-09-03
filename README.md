@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Cadaquesenc"><img src="https://raw.githubusercontent.com/Cadaquesenc/Cadaquesenc/main/assets/header.svg?v=2" alt="ethan giannaros" width="100%"></a>
+  <a href="https://github.com/Cadaquesenc"><img src="https://raw.githubusercontent.com/Cadaquesenc/Cadaquesenc/main/assets/header.svg?v=3" alt="ethan giannaros" width="100%"></a>
 </p>
 
 ### Whats this?
